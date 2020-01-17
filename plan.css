@@ -1,0 +1,46 @@
+*{
+  color:white;
+}
+body{
+  background-color:black;
+}
+.contqiner{
+  height:1600px;
+
+}
+.logo img{
+  float:left;
+  width:150px;
+  height:auto;
+}
+#header{
+  text-align:left;
+  height:50px;
+}
+.nav ul{
+  float:right;
+  list-style-type:none;
+  margin-top:25px;
+}
+.nav ul li{
+  display:inline-block;
+}
+
+.nav ul li a{
+  text-decoration:none;
+  padding:5px 25px;
+  border:1px solid #fff;
+}
+.nav ul li a:hover{
+  background-color:white;
+  color:blue;
+  transition:0.6s
+}
+
+.explore ul{
+    list-style-type:none;
+}
+.explore ul li{
+  display:inline-block;
+  padding:30px;
+}

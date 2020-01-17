@@ -1,0 +1,13 @@
+body{
+  background-color:black;
+}
+
+*{
+  color:white;
+}
+.banner-subs .sub-sign{
+  float:right;
+  text-decoration:none;
+  position: absolute;
+  margin-left:1100px;
+}

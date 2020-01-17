@@ -1,0 +1,96 @@
+*{
+  color:white;
+}
+body{
+  background-color:black;
+}
+
+.container{
+height:1600px;
+}
+
+.logo img{
+  float :right;
+  width:150px;
+  height:auto;
+}
+
+ #header{
+  color:white;
+  text-align:left;
+  height:50px;
+}
+
+
+.nav ul{
+  float:right;
+  list-style-type:none;
+  margin-top:25px;
+}
+.nav ul li{
+  display:inline-block;
+}
+ .nav ul li a{
+  text-decoration:none;
+  color:white;
+  padding:5px 25px;
+  border:1px solid #fff ;
+}
+.nav ul li a:hover{
+  background-color:white;
+  color:blue;
+  transition:0.6s;
+}
+
+
+  .main.slide1{
+    background-image:url("main.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.s2 ul{
+    list-style-type:none;
+  }
+.s2 ul li{
+  display:inline-block;
+  padding:30px;
+  }
+
+.banner-1 .rmore{
+    position:absolute;
+    top:390px;
+    right:440px;
+  }
+  .gal ul{
+    padding-left:200px;
+    list-style-type:none;
+  }
+
+  .gal ul li{
+  display:inline-block;
+  padding:15px;
+  }
+.galLM{
+  background-color:#4CAF50;
+  font-size:16px;
+  color:white;
+  position:absolute;
+  margin-left:800px;
+}
+.s3 ul{
+  list-style-type:none;
+}
+.s3 ul li{
+  display:inline-block;
+  padding:30px;
+}
+
+}
+.footer{
+  background-image:url("footer.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+  height:500px;
+}
